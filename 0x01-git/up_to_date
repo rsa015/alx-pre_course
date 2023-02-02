@@ -7,3 +7,4 @@ git checkout
 git branch
 git rm
 git clone
+git pull
